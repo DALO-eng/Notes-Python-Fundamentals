@@ -28,3 +28,10 @@ print("Hello 'World'");
 print('Hello "World"');
 print("Hello \"World\"");
 
+# Boolean Literals
+print(True);
+print(False);
+print(True == 1); # True is equal to 1
+print(False == 0); # False is equal to 0
+print(True + True + True);
+print(False + False + False);
